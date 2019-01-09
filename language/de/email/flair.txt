@@ -1,0 +1,13 @@
+Subject: Du hast eine neue Flair-Auszeichnung erhalten
+
+Hallo {USERNAME},
+
+Du hast ein neues "{FLAIR_NAME}" Flair erhalten auf "{SITENAME}".
+
+Um mehr über dieses Flairobjekt zu erfahren, besuche den unten angegebenen Link:
+{U_FLAIR}
+
+Um deine Flair-Auszeichnungen anzusehen, besuche dein Profil. Du kannst es ansehen, indem du den folgenden Link anklickst:
+{U_PROFILE}
+
+{EMAIL_SIG}
